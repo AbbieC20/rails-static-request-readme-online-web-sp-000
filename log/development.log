@@ -863,3 +863,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 94.13.176.208 at 2021-05-25 19:36:49 +0000
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (0.4ms)
+Completed 200 OK in 4ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
